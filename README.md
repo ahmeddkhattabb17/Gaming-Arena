@@ -2,7 +2,7 @@
 
 A high-energy gaming and esports landing page built to showcase games, tournaments, services, team content, and a strong gaming brand identity.
 
-## ✨ Features
+## Features
 - Gaming-focused hero section
 - Game showcase carousel/slider
 - Tournament and esports presentation
@@ -12,7 +12,7 @@ A high-energy gaming and esports landing page built to showcase games, tournamen
 - Responsive card-based layouts
 - Dark/neon visual system
 
-## 🛠️ Tech Stack
+## Tech Stack
 - HTML5
 - CSS3
 - Bootstrap
@@ -20,7 +20,7 @@ A high-energy gaming and esports landing page built to showcase games, tournamen
 - Font Awesome
 - Responsive Web Design
 
-## 📁 Structure
+## Structure
 ```text
 Gaming-Arena/
 ├── CSS/
@@ -30,11 +30,11 @@ Gaming-Arena/
 └── README.md
 ```
 
-## 🚀 Run Locally
+## Run Locally
 Open `index.html` in a browser or use a local static server.
 
-## 🎯 Portfolio Focus
+## Portfolio Focus
 This project demonstrates responsive layout systems, visual branding, Bootstrap customization, image-driven cards, navigation, and modern gaming UI presentation.
 
-## 👤 Author
+## Author
 Ahmed Khattab — Frontend Developer
