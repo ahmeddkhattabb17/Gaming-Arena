@@ -36,5 +36,9 @@ Open `index.html` in a browser or use a local static server.
 ## Portfolio Focus
 This project demonstrates responsive layout systems, visual branding, Bootstrap customization, image-driven cards, navigation, and modern gaming UI presentation.
 
+## Academic Context
+
+This project was developed as part of a front-end development assignment at Route Academy. It was created for educational purposes to practice and apply frontend development concepts in a project-based setting.
+
 ## Author
 Ahmed Khattab — Frontend Developer
